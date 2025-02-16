@@ -20,3 +20,8 @@
 
 ```bash
 npm install
+
+### Запустите проект
+
+```bash
+npm run dev
